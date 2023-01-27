@@ -1,6 +1,6 @@
 
-![Logo](https://awish.in/frontend/images/logo/logo-dark.svg#gh-light-mode-only)
-![Logo](https://awish.in/frontend/images/logo/logo-light.svg#gh-dark-mode-only)
+![Logo](./media/logo-dark.svg#gh-light-mode-only)
+![Logo](./media/media/logo-light.svg#gh-dark-mode-only)
 # The Next-Generation of IT
 
 ## 🚀 Who Are We?

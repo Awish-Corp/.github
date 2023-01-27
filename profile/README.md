@@ -1,6 +1,6 @@
 
-![Logo](https://awish.in/frontend/images/logo/logo-dark.svg#gh-light-mode-only)
-![Logo](https://awish.in/frontend/images/logo/logo-light.svg#gh-dark-mode-only)
+<!-- ![Logo](https://awish.in/frontend/images/logo/logo-dark.svg#gh-light-mode-only)
+![Logo](https://awish.in/frontend/images/logo/logo-light.svg#gh-dark-mode-only) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://awish.in/frontend/images/logo/logo-light.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://awish.in/frontend/images/logo/logo-dark.svg">

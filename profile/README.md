@@ -1,6 +1,6 @@
 
-![Logo](./media/logo-dark.svg#gh-light-mode-only)
-![Logo](./media/media/logo-light.svg#gh-dark-mode-only)
+![Logo](./profile/media/logo-dark.svg#gh-light-mode-only)
+![Logo](./profile/media/media/logo-light.svg#gh-dark-mode-only)
 # The Next-Generation of IT
 
 ## 🚀 Who Are We?

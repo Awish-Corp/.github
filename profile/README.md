@@ -1,6 +1,11 @@
 
-![Logo](./profile/media/logo-dark.svg#gh-light-mode-only)
-![Logo](./profile/media/media/logo-light.svg#gh-dark-mode-only)
+![Logo](https://awish.in/frontend/images/logo/logo-dark.svg#gh-light-mode-only)
+![Logo](https://awish.in/frontend/images/logo/logo-light.svg#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://awish.in/frontend/images/logo/logo-light.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://awish.in/frontend/images/logo/logo-dark.svg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://awish.in/frontend/images/logo/logo-dark.svg">
+</picture>
 # The Next-Generation of IT
 
 ## 🚀 Who Are We?
